@@ -10,7 +10,10 @@
 ## 🚀 Usage
 
 ### Clone it
-If you have the bandwidth (it's ~1.3GB+ of glory):
+Since this repo contains high-res assets, it is heavy. I recommend a **shallow clone** to save time and disk space (skips the git history):
 
 ```bash
-git clone [https://github.com/Brian-Zavala/favorite-wallpapers.git](https://github.com/Brian-Zavala/favorite-wallpapers.git)
+git clone --depth 1 https://github.com/Brian-Zavala/favorite-wallpapers.git
+cd favorite-wallpapers
+```
+### [**OR JUST DOWNLOAD ZIP FILE**](https://github.com/Brian-Zavala/favorite-wallpapers/archive/refs/heads/main.zip)
