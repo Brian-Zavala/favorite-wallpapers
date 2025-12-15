@@ -1,7 +1,5 @@
-# G.O.A.T 🐐
-
 > **Yes! Literally the best wallpapers known to man.**
-> I know. Enjoy.
+> I know. Enjoy.🐐
 
 ![Repo Size](https://img.shields.io/github/repo-size/Brian-Zavala/favorite-wallpapers?color=fe8019&style=for-the-badge&logo=hackthebox)
 ![Wallpaper Count](https://img.shields.io/badge/Wallpapers-91-DC143C?style=for-the-badge)
