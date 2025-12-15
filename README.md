@@ -5,7 +5,7 @@
 ![Wallpaper Count](https://img.shields.io/badge/Wallpapers-91-DC143C?style=for-the-badge)
 ![Vibe](https://img.shields.io/badge/Vibe-Immaculate-00B7FF?style=for-the-badge)
 
-## 🚀 Usage
+## Usage
 
 ### Clone it
 Since this repo contains high-res assets, it is heavy. I recommend a **shallow clone** to save time and disk space (skips the git history):
